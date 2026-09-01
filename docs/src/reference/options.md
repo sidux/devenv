@@ -3627,7 +3627,7 @@ string
 *Default:*
 
 ```nix
-"2.2.1"
+"2.2.2-pr410.1"
 ```
 
 *Declared by:*
